@@ -42,7 +42,5 @@
 - Replace sample users/passwords before production.
 - Wrap DML in transactions if you extend the script for migrations.
 
-## 🤝 Contributing
-Feel free to open issues or PRs with improvements to constraints, indexes, or report formatting.
 
 ---
